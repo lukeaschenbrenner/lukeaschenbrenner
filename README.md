@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser)
 
-- 🌱 I’m currently learning **New Java and Python concepts!**
+- 🌱 I’m currently learning **Swift and the Android NDK**
 
 - 📫 How to reach me **gmail.com @ ashbren21 (reverse)**
 
