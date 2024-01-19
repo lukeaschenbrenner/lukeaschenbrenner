@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser)
 
-- 🌱 I’m currently learning **Swift and the Android NDK**
+- 🌱 I’m currently learning **Typescript, Vue.JS, and NestJS**
 
 - 📫 Reach me at ![electronic mail: user ashbren21 with host gmail.com](https://raw.githubusercontent.com/lukeaschenbrenner/lukeaschenbrenner/2de5e8ff490f762a704b22add7d0f7e0d23f1023/electronic-mail-address.gif)
 
