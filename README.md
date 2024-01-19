@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **Swift and the Android NDK**
 
-- 📫 How to reach me **gmail.com @ ashbren21 (reverse)**
+- 📫 Reach me at ![electronic mail: user ashbren21 with host gmail.com](https://raw.githubusercontent.com/lukeaschenbrenner/lukeaschenbrenner/2de5e8ff490f762a704b22add7d0f7e0d23f1023/electronic-mail-address.gif)
 
-- My previous account: github (dot) com (slash) lukehasawii
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lukeasch21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukeasch21" height="30" width="40" /></a>
