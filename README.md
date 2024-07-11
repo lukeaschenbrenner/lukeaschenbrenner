@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Networking and Cybersecurity-related topics!**
 
-- 📫 Reach me at ![electronic mail: user hi with host name of luke period pm](https://raw.githubusercontent.com/lukeaschenbrenner/lukeaschenbrenner/2de5e8ff490f762a704b22add7d0f7e0d23f1023/electronic-mail-address.gif)
+- 📫 Reach me at ![electronic mail: user hi with host name of luke period pm](https://raw.githubusercontent.com/lukeaschenbrenner/lukeaschenbrenner/main/electronic-mail-address.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
