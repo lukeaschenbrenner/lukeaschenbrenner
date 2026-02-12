@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently letting [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) age like a fine wine. I do have some exciting plans for it though!
 
-- 🌱 I’m currently learning **Networking and Cybersecurity-related topics!**
+- 🌱 I’m currently learning **Svelte and Go**
 
 - 📫 Reach me at ![electronic mail: user hi with host name of luke period pm](https://raw.githubusercontent.com/lukeaschenbrenner/lukeaschenbrenner/main/electronic-mail-address.gif)
 
