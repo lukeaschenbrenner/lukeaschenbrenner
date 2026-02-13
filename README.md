@@ -1,8 +1,9 @@
 <h3 align="center">I have a love-hate relationship with screens.</h3>
 
-- 🔭 I’m currently letting [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) age like a fine wine. I do have some exciting plans for it though!
 
-- 🌱 I’m currently learning **Svelte and Go**
+- 🌱 I’m currently learning **Astro, Svelte, Go**
+
+- 🔭 I’m currently letting [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) age like a fine wine. I do have some exciting plans for it though!
 
 - 📫 Reach me at ![electronic mail: user hi with host name of luke period pm](https://raw.githubusercontent.com/lukeaschenbrenner/lukeaschenbrenner/main/electronic-mail-address.gif)
 
