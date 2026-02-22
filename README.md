@@ -1,7 +1,7 @@
 <h3 align="center">I have a love-hate relationship with screens.</h3>
 
 
-- 🌱 I’m currently learning **Astro, Svelte, Go**
+- 🌱 I’m currently learning **Astro, Svelte, Go/Wails**
 
 - 🔭 I’m currently letting [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) age like a fine wine. I do have some exciting plans for it though!
 
